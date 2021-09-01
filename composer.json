@@ -1,6 +1,8 @@
 {
     "name": "tonglin/dirshow",
     "description": "用于显示目录下的所有文件",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "tonglin",
