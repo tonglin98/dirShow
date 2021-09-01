@@ -9,8 +9,8 @@
             "email": "tonglinyy@gmail.com"
         }
     ],
-    "version": "dev",
-    "minimum-stability": "dev",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "DirShow\\":"src"
