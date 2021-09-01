@@ -9,6 +9,7 @@
             "email": "tonglinyy@gmail.com"
         }
     ],
+    "version": "dev",
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
